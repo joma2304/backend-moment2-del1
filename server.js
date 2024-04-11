@@ -31,7 +31,7 @@ client.connect((err) => {
 
 //Routes för metoder
 app.get("/api", (req, res) => {
-    res.json({message: "Welcome to my api"});
+    res.json({message: "Welcome to the workexperience api made by Johan Magnusson"});
 });
 
 app.get("/api/workexperience", (req, res) => {
