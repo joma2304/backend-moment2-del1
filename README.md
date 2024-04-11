@@ -21,7 +21,7 @@ Ett arbetserfarenhets-objekt returneras/skickas som JSON med följande struktur:
 {
    "id": "1",
    "companyname": "Kunskapsskolan",
-   "jobtitle": "teacher",
+   "jobtitle": "Lärare",
    "location": "Trelleborg"
 }
 ```
