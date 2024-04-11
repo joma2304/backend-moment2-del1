@@ -2,7 +2,7 @@
 Repot innehåller kod för att skapa ett REST API med express skapat av mig för att kunna hämta arbetserfarenhet samt lägga till, uppdatera och ta bort.  
 
 ## Länk
-Länk till APIet finns här: [https://backend-moment2-del1.onrender.com/api/workexperience](https://render.com) 
+Länk till APIet finns här: [https://backend-moment2-del1.onrender.com/api/workexperience](https://backend-moment2-del1.onrender.com/api/workexperience) 
 
 
 ## Användning
