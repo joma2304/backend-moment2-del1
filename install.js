@@ -21,7 +21,7 @@ client.connect((err) => {
     }
 });
 
-// Skapa tabell 
+// Skapa tabell med sql kommando
 client.query(`
 CREATE TABLE IF NOT EXISTS moment2_workexperience(
     id SERIAL PRIMARY KEY,
@@ -31,8 +31,8 @@ CREATE TABLE IF NOT EXISTS moment2_workexperience(
 )
 `, (err, result) => {
     if (err) {
-        console.error('Error creating table:', err);
+        console.error('Error creating table:', err); //Ifall error
     } else {
-        console.log('Table created successfully');
+        console.log('Table created successfully'); //Om tabell skapas 
     }
 });
