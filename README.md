@@ -2,7 +2,7 @@
 Repot innehåller kod för att skapa ett REST API med express skapat av mig för att kunna hämta arbetserfarenhet samt lägga till, uppdatera och ta bort.  
 
 ## Länk
-Länk till APIet finns här: [https://testserver.test/courses](https://miun.se) 
+Länk till APIet finns här: [Example.com](https/example.com) 
 
 
 ## Användning
